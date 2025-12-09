@@ -1,78 +1,51 @@
-<div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250"/>
-  <h1>👋 Hi, I'm Dady</h1>
-  <p>Web Developer • GameMaker Creator • Computer Engineering Student</p>
-</div>
+# 👋 Hi, I'm Sina
+
+Welcome to my GitHub! Here you'll find my projects and experiments in **web development**, **GameMaker Studio**, and **other personal coding projects**.
 
 ---
 
 ## 🚀 About Me
-I'm a passionate developer working on **Web Development**, **Backend**, and **GameMaker Studio games**.  
-I love building clean, modern, and visually polished projects.
+- 🎓 Student of Computer Engineering  
+- 💻 Passionate about **web development**  
+- 🌐 Check out my websites and projects  
+- 📫 Contact me: [Email](mailto:sinasaberi2006@gmail.com) | [LinkedIn](https://linkedin.com/in/your-link) | [GitHub](https://github.com/sinasaberri)
 
 ---
 
-## 🛠️ Skills & Tools
-
-| Category | Tools |
-|---------|--------|
-| **Frontend** | HTML, CSS, JavaScript |
-| **Backend** | PHP, MySQL |
-| **Game Development** | GameMaker Studio |
-| **Tools** | Git, GitHub, VSCode |
-
----
-
-## 🎮 GameMaker Studio Projects
-<div align="center">
-  <img src="https://media.giphy.com/media/26BRuo6sLetdllPAQ/giphy.gif" width="300"/>
-</div>
-
-### 🔹 Featured Games
-- **Space Shooter** — Fast-paced 2D shooting game  
-- **Puzzle Blocks** — Creative puzzle logic game  
-- **Arcade Runner** — Endless runner prototype  
-
-> Each game includes editable GameMaker source files.
+## 🛠️ Technologies & Tools
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![GameMaker Studio](https://img.shields.io/badge/GameMaker-Studio-FF3E3E?style=for-the-badge)
 
 ---
 
-## 💻 Web Development Projects
+## 📂 My Projects
 
-### 🔸 Backend (PHP / MySQL)
-- User authentication system  
-- REST API structure  
-- Clean database architecture  
+### 💻 Web Projects (Back-End / Front-End)
+| Project | Description | Link |
+|---------|-------------|------|
+| Backend | PHP & MySQL backend for web apps | [Repo](https://github.com/sinasaberri/Backend-Projects) |
+| Frontend | HTML & CSS & JS for website | [Repo](https://github.com/sinasaberri/Frontend-Projects) |
 
-### 🔸 Frontend
-- Responsive modern UI
-- Mobile-first design  
-- Interactive components  
+### 🎮 GameMaker Studio Games
+| Game | Description | Link |
+|------|-------------|------|
+| Pacman | 2D game | [Repo](https://github.com/sinasaberri/GameMaker-Projects) |
 
----
-
-## 🔥 GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
-
-</div>
 
 ---
 
-## 🌐 Contact
-- 🌎 **Website:** your-website.com  
-- 📧 **Email:** your-email@example.com  
-- 🐦 **Twitter:** your-twitter  
-- 📷 **Instagram:** your-instagram  
+## 📈 GitHub Stats
+![Sina's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sinasaberri&show_icons=true&theme=radical)
 
 ---
 
-<div align="center">
-  <strong>💚 Thanks for visiting!</strong>
-  <br/>
-  <img src="https://media.giphy.com/media/l3vR85PnGsBwu1PFK/giphy.gif" width="200"/>
-</div>
+## 🌟 Let's Connect
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-link)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sinasaberi2006@gmail.com)
+[![Website](https://img.shields.io/badge/Website-101010?style=for-the-badge&logo=google-chrome&logoColor=white)](https://sinasaberi.ir)
+
+---
